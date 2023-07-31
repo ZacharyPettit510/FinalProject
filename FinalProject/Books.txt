@@ -1,0 +1,52 @@
+To Kill a Mockingbird, Harper Lee, 10.99, 1960
+1984, George Orwell, 9.99, 1949
+The Great Gatsby, F. Scott Fitzgerald, 8.95, 1925
+Pride and Prejudice, Jane Austen, 7.50, 1813
+The Hobbit, J.R.R. Tolkien, 9.49, 1937
+The Catcher in the Rye, J.D. Salinger, 9.89, 1951
+The Lord of the Rings Trilogy, J.R.R. Tolkien, 29.95, 1954
+The Chronicles of Narnia, C.S. Lewis, 19.99, 1950
+Animal Farm, George Orwell, 7.99, 1945
+Brave New World, Aldous Huxley, 8.49, 1932
+Gone with the Wind, Margaret Mitchell, 12.95, 1936
+Jane Eyre, Charlotte Bronte, 6.75, 1847
+Little Women, Louisa May Alcott, 7.25, 1868
+Moby-Dick, Herman Melville, 9.25, 1851
+Dracula, Bram Stoker, 8.15, 1897
+The Picture of Dorian Gray, Oscar Wilde, 7.99, 1890
+Frankenstein, Mary Shelley, 6.99, 1818
+The Adventures of Tom Sawyer, Mark Twain, 5.49, 1876
+The Adventures of Huckleberry Finn, Mark Twain, 6.95, 1884
+Alice's Adventures in Wonderland, Lewis Carroll, 5.99, 1865
+The Count of Monte Cristo, Alexandre Dumas, 10.50, 1844
+Don Quixote, Miguel de Cervantes, 11.99, 1605
+Les Misérables, Victor Hugo, 9.95, 1862
+Wuthering Heights, Emily Bronte, 7.75, 1847
+The Scarlet Letter, Nathaniel Hawthorne, 6.49, 1850
+Crime and Punishment, Fyodor Dostoevsky, 7.75, 1866
+War and Peace, Leo Tolstoy, 12.49, 1869
+Anna Karenina, Leo Tolstoy, 9.95, 1877
+Heart of Darkness, Joseph Conrad, 6.49, 1899
+One Hundred Years of Solitude, Gabriel Garcia Marquez, 8.95, 1967
+The Brothers Karamazov, Fyodor Dostoevsky, 8.95, 1880
+The Divine Comedy, Dante Alighieri, 7.99, 1320
+Sense and Sensibility, Jane Austen, 6.75, 1811
+Treasure Island, Robert Louis Stevenson, 5.95, 1883
+The Three Musketeers, Alexandre Dumas, 8.99, 1844
+Journey to the Center of the Earth, Jules Verne, 7.49, 1864
+Gulliver's Travels, Jonathan Swift, 6.49, 1726
+The Jungle Book, Rudyard Kipling, 6.95, 1894
+Lord of the Flies, William Golding, 6.95, 1954
+The Alchemist, Paulo Coelho, 7.25, 1988
+The Adventures of Sherlock Holmes, Arthur Conan Doyle, 5.99, 1892
+The Time Machine, H.G. Wells, 5.95, 1895
+The War of the Worlds, H.G. Wells, 6.75, 1898
+Oliver Twist, Charles Dickens, 6.49, 1838
+The Call of the Wild, Jack London, 5.99, 1903
+White Fang, Jack London, 5.99, 1906
+The Old Man and the Sea, Ernest Hemingway, 6.99, 1952
+The Grapes of Wrath, John Steinbeck, 7.95, 1939
+The Pearl, John Steinbeck, 6.75, 1947
+The Aeneid, Virgil, 7.75, 29
+The Republic, Plato, 8.25, 380
+Paradise Lost, John Milton, 9.95, 1667
